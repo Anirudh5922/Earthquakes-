@@ -3,7 +3,7 @@ import edu.duke.*;
 
 public class EarthQuakeClient {
     public EarthQuakeClient() {
-        // TODO Auto-generated constructor stub
+        
     }
 
     public ArrayList<QuakeEntry> filterByMagnitude(ArrayList<QuakeEntry> quakeData,

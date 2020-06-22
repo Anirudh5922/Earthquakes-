@@ -3,8 +3,8 @@ import java.io.*;
 /**
  * Write a description of LargestQuakes here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Anirudh Maheshwari
+ * @version 1.0
  */
 public class LargestQuakes {
 

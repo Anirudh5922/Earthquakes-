@@ -2,8 +2,8 @@
 /**
  * Write a description of DistanceFilter here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Anirudh Maheshwari
+ * @version 1.0
  */
 public class DistanceFilter implements Filter
 {

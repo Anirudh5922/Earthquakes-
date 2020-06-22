@@ -2,8 +2,8 @@ import java.util.*;
 /**
  * Write a description of TitleAndDepthComparator here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Anirudh Maheshwari 
+ * @version 1.0
  */
 public class TitleAndDepthComparator implements Comparator<QuakeEntry> {
     public int compare(QuakeEntry qe1, QuakeEntry qe2) {
